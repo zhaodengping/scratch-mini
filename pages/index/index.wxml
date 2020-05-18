@@ -1,0 +1,3 @@
+<!-- <image src="../../assets/images/award.jpg"></image> -->
+<view class="award">一等奖</view>
+<canvas canvas-id='awardCanvas'  bindtouchstart="touchStart" bindtouchmove="touchMove"></canvas>
